@@ -9,16 +9,16 @@
 
 ### Getting Started
 
-1. **Clone the Repository**
+1. **Create Your Personal Folder**
+   - Create a folder with your name or username
+   - Example: `mkdir john_doe`
+   - Change into your folder: `cd john_doe`
+
+2. **Clone the Repository**
    ```bash
    git clone <repository-url>
    cd <repository-name>
    ```
-
-2. **Create Your Personal Folder**
-   - Create a folder with your name or username
-   - Example: `mkdir john_doe`
-   - Change into your folder: `cd john_doe`
 
 3. **Working on Projects**
    - All your work should be committed and pushed to your personal folder
